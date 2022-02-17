@@ -1,2 +1,0 @@
-# gitpract
-practice git
